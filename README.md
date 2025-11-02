@@ -35,7 +35,7 @@ It groups customers into clusters based on features (e.g., age, annual income, s
 1. Clone the repository:
 
 ```bash
-git clone <your-github-repo-url>
+git clone https://github.com/002SIDDHARTH/Customer_Segmentation_ML_project.git
 cd KMeans_Customer_Segmentation
 ```
 
